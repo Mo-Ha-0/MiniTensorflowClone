@@ -26,7 +26,7 @@ A lightweight, educational neural network library built from scratch using NumPy
 
 ```bash
 # Clone the repository
-git clone https://github.com/Mo-Ha-0/BeyondersTensorflow.git
+git clone https://github.com/Mo-Ha-0/MiniTensorflowClone.git
 cd BeyondersTENSORFLOW
 
 # Install dependencies

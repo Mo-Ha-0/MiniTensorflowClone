@@ -26,7 +26,7 @@
 
 ```bash
 # استنساخ المستودع
-git clone https://github.com/Mo-Ha-0/BeyondersTensorflow.git
+git clone https://github.com/Mo-Ha-0/MiniTensorflowClone.git
 cd BeyondersTENSORFLOW
 
 # تثبيت المتطلبات
